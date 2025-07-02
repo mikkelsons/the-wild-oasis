@@ -61,7 +61,7 @@ function BookingRow({
   },
 }) {
   const navigate = useNavigate();
-  const { checkout, isCheckingout } = useCheckout();
+  const { checkout, isCheckingOut } = useCheckout();
   const { deleteBooking, isDeleting } = useDeleteBooking();
 
   const statusToTagName = {
@@ -121,7 +121,7 @@ function BookingRow({
               <Menus.Button
                 icon={<HiArrowUpOnSquare />}
                 onClick={() => checkout(bookingId)}
-                disabled={isCheckingout}
+                disabled={isCheckingOut}
               >
                 Check out
               </Menus.Button>

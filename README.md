@@ -12,7 +12,7 @@ There are undoubtedly many more possible enhancements, but this is just a show p
 
 ## Demo
 
-Try the live app: [Fast React Pizza](https://mikkelsons-wild-oasis.netlify.app/login/)
+Try the live app: [The Wild Oasis](https://mikkelsons-wild-oasis.netlify.app/login/)
 (contact me for login information, mikkelson_shawn@yahoo.com)
 
 ## Tech Stack

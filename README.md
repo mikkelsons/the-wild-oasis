@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/29063a4c-3127-4787-8470-c1c3401d936f/deploy-status)](https://app.netlify.com/projects/mikkelsons-fast-react-pizza/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e8c107c-afdc-45de-a91b-d75dfb4317b6/deploy-status)](https://app.netlify.com/projects/mikkelsons-wild-oasis/deploys)
 
 This is a modern, responsive web application for managing a hotel business. Authorized users can login and see current bookings, check guests in and out, update cabins, create new authorized users, and update their own name, password, and avatar image. This project was built as part of the Udemy course "The Ultimate React Course 2025: React, Next.js, Redux & More" by Jonas Schmedtmann.
 
@@ -14,7 +14,8 @@ There are undoubtedly many more possible enhancements, but this is just a show p
 
 ## Demo
 
-<!-- Try the live app: [Fast React Pizza](https://mikkelsons-fast-react-pizza.netlify.app/) -->
+Try the live app: [Fast React Pizza](https://mikkelsons-wild-oasis.netlify.app/login/)
+(contact me for login information, mikkelson_shawn@yahoo.com)
 
 ## Tech Stack
 

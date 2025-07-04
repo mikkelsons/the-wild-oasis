@@ -13,7 +13,7 @@ There are undoubtedly many more possible enhancements, but this is just a show p
 ## Demo
 
 Try the live app: [The Wild Oasis](https://mikkelsons-wild-oasis.netlify.app/login/)
-(contact me for login information, mikkelson_shawn@yahoo.com)
+Use the prefilled email and password to try it out. You will only be able read from the database and update. Deletions and insertions have been disabled on the database for this test user.
 
 ## Tech Stack
 
@@ -58,7 +58,7 @@ Try the live app: [The Wild Oasis](https://mikkelsons-wild-oasis.netlify.app/log
 
 ## Usage
 
-- **Login Page** You will need a login and password to gain access to the app. Contact me at mikkelson_shawn@yahoo.com to request one.
+- **Login Page** Try it out with the prefilled login information. You will not be able to add or delete anything, but you can view and update most things (not the cabins).
 - **Dashboard**: Displays statistics for recent bookings and sales, with a filter option. A reactive pie chart and line graph to easily view and compare stay durations, sales, and extras sales.
 - **Bookings Page**: View and manage bookings, statuses, payment received, guest details.
 - **Cabins Page**: View and manage available cabins, prices, photos, capacities, discounts.

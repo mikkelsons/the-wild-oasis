@@ -39,7 +39,7 @@ export async function createEditCabin(newCabin, id) {
 
   if (error) {
     console.error(error);
-    throw new Error("Cabin could not be created");
+    throw new Error("Cabin could not be created or updated");
   }
 
   // 2. Upload image
@@ -66,6 +66,10 @@ export async function deleteCabin(id) {
 
   if (error) {
     console.error(error);
+    throw new Error("Cabin could not be deleted");
+  }
+
+  if (!data || data.length === 0) {
     throw new Error("Cabin could not be deleted");
   }
 

@@ -58,7 +58,7 @@ Use the prefilled email and password to try it out. You will only be able read f
 
 ## Usage
 
-- **Login Page** Try it out with the prefilled login information. You will not be able to add or delete anything, but you can view and update most things (not the cabins).
+- **Login Page** Try it out with the prefilled login information. You will not be able to add or delete anything, but you can view and update everything.
 - **Dashboard**: Displays statistics for recent bookings and sales, with a filter option. A reactive pie chart and line graph to easily view and compare stay durations, sales, and extras sales.
 - **Bookings Page**: View and manage bookings, statuses, payment received, guest details.
 - **Cabins Page**: View and manage available cabins, prices, photos, capacities, discounts.
